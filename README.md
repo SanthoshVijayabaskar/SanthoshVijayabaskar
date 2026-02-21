@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello 👋 I’m Santhosh, building enterprise AI systems that actually ship
 
 ## 💫 About Me:
 I build and modernize enterprise systems with AI, focusing on RAG, agentic workflows, and governance done right. I enjoy thinking at the strategy level and still getting hands-on when it’s time to make something work.

@@ -1,5 +1,5 @@
 # Hi 👋 I’m Santhosh
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## 💫 About Me:
 I build and modernize enterprise systems with AI, focusing on RAG, agentic workflows, and governance done right. I enjoy thinking at the strategy level and still getting hands-on when it’s time to make something work.

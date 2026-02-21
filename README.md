@@ -5,9 +5,10 @@
 I build and modernize enterprise systems with AI, focusing on RAG, agentic workflows, and governance done right. I enjoy thinking at the strategy level and still getting hands-on when it’s time to make something work.
 
 ## 🎯 Focus Areas:
-- Enterprise RAG Systems
-- Agentic Workflow Orchestration
-- AI Governance & Evaluation
+- AI Integration in Enterprise Products
+- Enterprise RAG & Context Systems
+- Agentic & Human-in-the-loop Workflows
+- AI Governance, Risk Controls & Evaluation
 - Automation → AI Modernization
 
 ## 🌐 Socials:
